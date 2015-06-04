@@ -1,4 +1,4 @@
-package hello;
+package com.ikusi.model;
 
 public class Greeting {
 
